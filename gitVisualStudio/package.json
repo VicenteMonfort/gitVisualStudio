@@ -1,0 +1,9 @@
+{
+  "name": "git-visual-studio",
+  "version": "0.0.0",
+  "description": "gitVisualStudio",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
