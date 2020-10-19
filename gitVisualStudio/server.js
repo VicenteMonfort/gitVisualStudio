@@ -8,4 +8,5 @@ http.createServer(function (req, res) {
     res.end('HelloFunc1\n');
     res.end('HelloFunc2\n');
     res.end('HelloFunc3\n');
+    res.end('HelloFunc4\n');
 }).listen(port);
