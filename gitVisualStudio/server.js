@@ -6,4 +6,5 @@ http.createServer(function (req, res) {
     res.writeHead(200, { 'Content-Type': 'text/plain' });
     res.end('Hello New World\n');
     res.end('HelloFunc1\n');
+    res.end('HelloFunc2\n');
 }).listen(port);
